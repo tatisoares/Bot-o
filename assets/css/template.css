@@ -1,0 +1,18 @@
+
+button{
+text-align: center;
+display: inline-block;
+background-color: rgb(34, 34, 176);
+width:150px;
+height:60px;
+font-size:25px;
+color:#ffffff;
+border-radius:10px;
+border:none;
+margin-top:15%;
+margin-left:35%;
+}
+button:hover{
+background-color: rgb(155, 155, 224);
+cursor: pointer;
+}
